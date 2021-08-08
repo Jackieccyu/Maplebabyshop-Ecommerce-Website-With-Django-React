@@ -1,7 +1,7 @@
 # Maple Baby Shop Ecommerce Website With Django + React
 ## Developed by Django and React
 
-Live Demo can be viewed at
+Live Demo can be viewed at https://maplebabyshop.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/80301375/128139026-bd6967e5-8803-4614-ac93-8877256340e0.png)
 
